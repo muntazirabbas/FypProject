@@ -28,8 +28,6 @@ class Compare extends Component {
         "khaadi",
         "engine",
         "gulahmed",
-        "junaidjamshed",
-        "levi"
       ],
       brand1: "",
       brand2: "",
@@ -114,7 +112,7 @@ class Compare extends Component {
                   <div>
                     <select
                       className="text-capitalize text-white m-2"
-                      style={{backgroundColor:"#D65E46"}}
+                      style={{ backgroundColor: "#D65E46" }}
                       name="brand1"
                       id="dropdown1"
                       onChange={this.onChange}
@@ -134,7 +132,7 @@ class Compare extends Component {
                     </select>
                     <select
                       className="text-capitalize text-white m-2"
-                      style={{backgroundColor:"#D65E46"}}
+                      style={{ backgroundColor: "#D65E46" }}
                       id="dropdown2"
                       name="brand2"
                       onChange={this.onChange}
@@ -152,7 +150,7 @@ class Compare extends Component {
                     </select>
                     <select
                       className="text-capitalize text-white  m-2"
-                      style={{backgroundColor:"#D65E46"}}
+                      style={{ backgroundColor: "#D65E46" }}
                       id="dropdown3"
                       name="brand3"
                       onChange={this.onChange}
@@ -173,7 +171,7 @@ class Compare extends Component {
                     <button
                       onClick={this.onClickCompareBtn}
                       className="btn text-white"
-                      style={{backgroundColor:"#D65E46"}}
+                      style={{ backgroundColor: "#D65E46" }}
                       type="button"
                     >
                       Compare
@@ -181,62 +179,62 @@ class Compare extends Component {
                   </div>
                 </div>
                 {this.props.compare_products &&
-                this.props.compare_products.products1.length > 0 &&
-                this.props.compare_products.products2.length > 0 &&
-                this.props.compare_products.products3.length > 0 ? (
-                  <div>
-                    <Row className="products products-loop grid ciyashop-products-shortcode pgs-product-list">
-                      <div className="col-md-4 col-sm-12">
-                        <h2>{this.state.brand1}</h2>
-                        {this.props.compare_products.products1
-                          .slice(0, this.state.limit)
-                          .map((product, index) => (
-                            <ProductList product={product} key={index} />
-                          ))}
+                  this.props.compare_products.products1.length > 0 &&
+                  this.props.compare_products.products2.length > 0 &&
+                  this.props.compare_products.products3.length > 0 ? (
+                    <div>
+                      <Row className="products products-loop grid ciyashop-products-shortcode pgs-product-list">
+                        <div className="col-md-4 col-sm-12">
+                          <h2>{this.state.brand1}</h2>
+                          {this.props.compare_products.products1
+                            .slice(0, this.state.limit)
+                            .map((product, index) => (
+                              <ProductList product={product} key={index} />
+                            ))}
+                        </div>
+                        <div className="col-md-4 col-sm-12">
+                          <h2>{this.state.brand2}</h2>
+                          {this.props.compare_products.products2
+                            .slice(0, this.state.limit)
+                            .map((product, index) => (
+                              <ProductList product={product} key={index} />
+                            ))}
+                        </div>
+                        <div className="col-md-4 col-sm-12">
+                          <h2>{this.state.brand3}</h2>
+                          {this.props.compare_products.products3
+                            .slice(0, this.state.limit)
+                            .map((product, index) => (
+                              <ProductList product={product} key={index} />
+                            ))}
+                        </div>
+                      </Row>
+                      <div className="text-center">
+                        <a onClick={this.onLoadMore} className="loadmore-btn">
+                          Load More
+                      </a>
                       </div>
-                      <div className="col-md-4 col-sm-12">
-                        <h2>{this.state.brand2}</h2>
-                        {this.props.compare_products.products2
-                          .slice(0, this.state.limit)
-                          .map((product, index) => (
-                            <ProductList product={product} key={index} />
-                          ))}
-                      </div>
-                      <div className="col-md-4 col-sm-12">
-                        <h2>{this.state.brand3}</h2>
-                        {this.props.compare_products.products3
-                          .slice(0, this.state.limit)
-                          .map((product, index) => (
-                            <ProductList product={product} key={index} />
-                          ))}
+                    </div>
+                  ) : (
+                    <Row className="products products-loop grid ciyashop-products-shortcode">
+                      <div className="col-sm-12 text-center  mt-5">
+                        <img
+                          src={require(`../../assets/images/empty-search.jpg`)}
+                          className="img-fluid mb-4"
+                        />
+                        <h3>
+                          Sorry! No products were found matching your selection!{" "}
+                        </h3>
+                        <p>Please try to other words.</p>
+                        <button
+                          onClick={this.refreshPage}
+                          className="btn btn-solid"
+                        >
+                          Continue Shopping
+                      </button>
                       </div>
                     </Row>
-                    <div className="text-center">
-                      <a onClick={this.onLoadMore} className="loadmore-btn">
-                        Load More
-                      </a>
-                    </div>
-                  </div>
-                ) : (
-                  <Row className="products products-loop grid ciyashop-products-shortcode">
-                    <div className="col-sm-12 text-center  mt-5">
-                      <img
-                        src={require(`../../assets/images/empty-search.jpg`)}
-                        className="img-fluid mb-4"
-                      />
-                      <h3>
-                        Sorry! No products were found matching your selection!{" "}
-                      </h3>
-                      <p>Please try to other words.</p>
-                      <button
-                        onClick={this.refreshPage}
-                        className="btn btn-solid"
-                      >
-                        Continue Shopping
-                      </button>
-                    </div>
-                  </Row>
-                )}
+                  )}
                 )}
               </div>
             </Row>
@@ -248,5 +246,6 @@ class Compare extends Component {
 }
 const mapDispatchToProps = state => ({
   products: getFilterProductsdata(state.data, state.filters),
-  compare_products: getCompareFilterProductsdata(state.data.compare_products, state.filters) });
+  compare_products: getCompareFilterProductsdata(state.data.compare_products, state.filters)
+});
 export default connect(mapDispatchToProps, { compareProducts })(Compare);

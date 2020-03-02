@@ -17,7 +17,8 @@ const ProductsSchema = new mongoose.Schema({
   size: { type: Array },
   stock: { type: Number },
   tag: { type: Array },
-  buyUrl: { type: String }
+  buyUrl: { type: String },
+  mainBrand: { type: String }
 });
 
 const Products = mongoose.model("products", ProductsSchema);
