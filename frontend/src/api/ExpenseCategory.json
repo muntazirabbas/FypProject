@@ -1,0 +1,45 @@
+[
+    {
+        "ItemNo" : "Itm001",
+        "Date": "Jan 24, 2019",
+        "Type" : "Hotel",
+        "CompanyName": "Shiv Campus",
+        "Amount" : "$5,784.00",
+        "Status": "Paid"
+    },
+    {
+        "ItemNo" : "Itm002",
+        "Date": "Jan 26, 2019",
+        "Type" : "Accomodation",
+        "CompanyName": "ABC Infotech",
+        "Amount" : "$7,365.00",
+        "Status": "Not Paid"
+
+    },
+    {
+        "ItemNo" : "Itm003",
+        "Date": "Jan 28, 2019",
+        "Type" : "Hotel",
+        "CompanyName": "Mrun Textile",
+        "Amount" : "$5,471.00",
+        "Status": "Paid"
+    },
+    {
+        "ItemNo" : "Itm004",
+        "Date": "Feb 01, 2019",
+        "Type" : "Accomodation",
+        "CompanyName": "ABCD Infocom",
+        "Amount" : "$7,145.00",
+        "Status": "Not Paid"
+
+    },
+    {
+        "ItemNo" : "Itm005",
+        "Date": "Feb 06, 2019",
+        "Type" : "Accomodation",
+        "CompanyName": "Relience Info",
+        "Amount" : "$7,968.00",
+        "Status": "Not Paid"
+
+    }
+]

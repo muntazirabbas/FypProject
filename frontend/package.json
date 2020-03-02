@@ -1,0 +1,102 @@
+{
+  "name": "reactdemo",
+  "private": true,
+  "homepage": "https://ciyashop-react.potenzaglobalsolutions.com/",
+  "dependencies": {
+    "@iconify/react": "^1.1.0",
+    "antd": "^3.26.5",
+    "axios": "^0.19.2",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^4.3.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "fetch-instagram": "^1.0.0-alpha.3",
+    "font-awesome": "^4.7.0",
+    "google-maps-react": "^2.0.2",
+    "html-webpack-plugin": "^4.0.0-beta.5",
+    "http-server": "^0.11.1",
+    "install": "^0.12.2",
+    "lodash.debounce": "^4.0.8",
+    "npm": "^6.13.7",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dev-utils": "^9.0.1",
+    "react-dom": "^16.8.6",
+    "react-image-lightbox": "^5.1.0",
+    "react-images-upload": "^1.2.7",
+    "react-intl": "^2.9.0",
+    "react-loader-spinner": "^2.3.0",
+    "react-redux": "^7.0.3",
+    "react-redux-multilingual": "^2.0.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^3.3.1",
+    "react-slick": "^0.24.0",
+    "react-table": "^6.10.0",
+    "react-tabs": "^3.0.0",
+    "react-toastify": "^5.2.1",
+    "reactjs-popup": "^1.4.1",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "sw-precache-webpack-plugin": "^0.11.5",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  },
+  "devDependencies": {
+    "mini-css-extract-plugin": "^0.7.0",
+    "sass-loader": "^7.1.0"
+  },
+  "scripts": {
+    "start": "node scripts/start.js",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test.js --env=jsdom"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,mjs}"
+    ],
+    "setupFiles": [
+      "<rootDir>/config/polyfills.js"
+    ],
+    "testMatch": [
+      "<rootDir>/src/**/__tests__/**/*.{js,jsx,mjs}",
+      "<rootDir>/src/**/?(*.)(spec|test).{js,jsx,mjs}"
+    ],
+    "testEnvironment": "node",
+    "testURL": "http://react.skytouchinfotech.com/",
+    "transform": {
+      "^.+\\.(js|jsx|mjs)$": "<rootDir>/node_modules/babel-jest",
+      "^.+\\.css$": "<rootDir>/config/jest/cssTransform.js",
+      "^(?!.*\\.(js|jsx|mjs|css|json)$)": "<rootDir>/config/jest/fileTransform.js"
+    },
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx|mjs)$"
+    ],
+    "moduleNameMapper": {
+      "^react-native$": "react-native-web"
+    },
+    "moduleFileExtensions": [
+      "web.js",
+      "js",
+      "json",
+      "web.jsx",
+      "jsx",
+      "node",
+      "mjs"
+    ]
+  },
+  "babel": {
+    "presets": [
+      "react-app"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}

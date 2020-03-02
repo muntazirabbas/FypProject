@@ -1,0 +1,2183 @@
+/* media */
+@media (max-width:1400px) {
+  .slider-01 .slide-content .slide-title h1 {
+    font-size: 110px;
+    line-height: 110px;
+  }
+
+  .slider-01 .slide-content .slide-subtitle {
+    font-size: 66px;
+    line-height: 66px;
+  }
+
+  .slider-01 .slide-content .slide-offer {
+    font-size: 42px;
+    line-height: 42px;
+  }
+
+  header.site-header .ciya-tools {
+    margin-left: 0;
+  }
+
+  .slider-03 .slide-content .slide-title h1 {
+    margin-bottom: 0;
+    font-size: 44px;
+    line-height: 60px;
+  }
+
+  .slide-03-item .slide-content img {
+    height: 180px;
+    width: 180px;
+  }
+
+  .slider-04 .slide-content .slide-inner {
+    padding: 26px 50px;
+  }
+
+  .slider-02 .slide-content .slide-title h1 {
+    font-size: 62px;
+    line-height: 80px;
+  }
+
+  .slider-02 .slide-content .slide-right {
+    padding: 40px;
+  }
+
+  .slider-02 .slide-content .slide-left {
+    padding: 40px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-1 .single-img-content {
+    left: 200px;
+  }
+
+  .ciyashop_banner-style-deal-2.ciyashop_banner .ciyashop_banner-content.ciyashop_banner-content-vbottom {
+    bottom: -20px;
+  }
+
+}
+
+@media (max-width:1199px) {
+  .slider-01 .slide-content .slide-left {
+    margin-top: 0;
+  }
+
+  .slider-01 .slide-content .slide-title h1 {
+    font-size: 80px;
+    line-height: 80px;
+  }
+
+  .slider-01 .slide-content .slide-subtitle {
+    font-size: 46px;
+    line-height: 46px;
+  }
+
+  .slider-01 .slide-content .slide-offer {
+    font-size: 42px;
+    line-height: 42px;
+  }
+
+  .section-1 .section-title h2 {
+    font-size: 46px;
+    line-height: 57px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    font-size: 24px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-deal-1 .ciyashop_banner-content .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    font-size: 44px;
+  }
+
+  .site-footer .footer-bottom .apps-store-img img {
+    height: 40px;
+  }
+
+  .header-style-menu-center .topbar .topbar-right .topbar-link > ul > li .top-menu li {
+    padding: 7px 10px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-3 .single-img-content {
+    bottom: 60px;
+  }
+
+  .single-img-wrapper .text-wrapper h5 {
+    font-size: 18px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-3 .text-wrapper {
+    margin-top: 54px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-1 .single-img-content {
+    left: inherit;
+    right: -40px;
+    width: 190px;
+  }
+
+  .newsletter-bg {
+    margin-top: 40px;
+  }
+
+  .slider-04 .slide-content .slide-subtitle {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+
+  .slider-04 .slide-content .slide-title h1 {
+    font-size: 45px;
+    line-height: 60px;
+  }
+
+  .slider-04 .slide-content p {
+    font-size: 14px;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content p {
+    padding: 0;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content h1 {
+    font-size: 42px;
+    margin-bottom: 0;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content p {
+    font-size: 23px;
+  }
+
+  .slider-02 .slide-content .slide-title h1 {
+    font-size: 52px;
+    line-height: 54px;
+  }
+
+  .products-header .loop-header-tools .result-count {
+    float: none;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    float: none;
+  }
+
+  .ReactTable .view-button {
+    margin-bottom: 3px;
+    margin-right: 3px;
+  }
+
+  .maintenance footer {
+    text-align: center;
+    position: relative;
+  }
+
+  .products-header .loop-header-tools .gridlist-toggle-wrap {
+    display: none;
+  }
+
+  .ReactTable .delete-button {
+    margin-left: 0;
+  }
+
+  .ReactTable .rt-thead .rt-th {
+    padding: 20px 25px 20px 10px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner-effect-none.ciya-banner-3 .ciyashop_banner-text-wrap {
+    margin-top: 0;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner .ciyashop_banner-content.ciyashop_banner-content-vbottom {
+    bottom: 0;
+  }
+
+  .ciyashop_banner .ciyashop_banner-badge.ciyashop_banner-badge_style-style-1.ciyashop_banner-badge_type-flat.ciyashop_banner-badge_align-vtop.ciyashop_banner-badge_align-hleft {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+  }
+
+  .ciyashop_banner-style-deal-2.ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text {
+    line-height: 35px;
+  }
+
+  .ciyashop_banner-style-deal-2.ciyashop_banner .ciyashop_banner-content.ciyashop_banner-content-vbottom {
+    bottom: -20px;
+  }
+
+  .contact-wrapper {
+    padding: 40px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content {
+    padding: 10px 0 20px;
+  }
+
+  .slider-03 .slide-content .slide-since {
+    margin-top: 0;
+  }
+
+  .ciyashop_info_box_2-icon_position-left {
+    padding: 10px;
+  }
+
+  .slider-04 .slide-content .slide-inner {
+    box-shadow: 10px 10px 0px rgb(253, 225, 214);
+  }
+
+  .collaboration-table .delete-button {
+    padding: 2px 10px 2px 10px;
+  }
+
+  .countdown-main {
+    padding-bottom: 80px;
+    padding-top: 80px;
+  }
+
+  .slider-simple-arrow .slick-prev {
+    left: 12px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .slider-simple-arrow .slick-next {
+    right: 12px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .slider-simple-arrow .slick-prev:before,
+  .slider-simple-arrow .slick-next:before {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+  }
+
+  .countdown-main .section-title-wrapper p {
+    letter-spacing: 0;
+  }
+
+}
+
+@media (max-width:991px) {
+  .m-5 {
+    margin: 40px;
+  }
+
+  .p-5 {
+    padding: 40px;
+  }
+
+  .m-6 {
+    margin: 40px;
+  }
+
+  .p-6 {
+    padding: 40px;
+  }
+
+  .m-7 {
+    margin: 40px;
+  }
+
+  .p-7 {
+    padding: 40px;
+  }
+
+  .m-8 {
+    margin: 40px;
+  }
+
+  .p-8 {
+    padding: 40px;
+  }
+
+  .m-9 {
+    margin: 40px;
+  }
+
+  .p-9 {
+    padding: 40px;
+  }
+
+  .m-10 {
+    margin: 40px;
+  }
+
+  .p-10 {
+    padding: 40px;
+  }
+
+  .mt-5 {
+    margin-top: 40px;
+  }
+
+  .pt-5 {
+    padding-top: 40px;
+  }
+
+  .mt-6 {
+    margin-top: 40px;
+  }
+
+  .pt-6 {
+    padding-top: 40px;
+  }
+
+  .mt-7 {
+    margin-top: 40px;
+  }
+
+  .pt-7 {
+    padding-top: 40px;
+  }
+
+  .mt-8 {
+    margin-top: 40px;
+  }
+
+  .pt-8 {
+    padding-top: 40px;
+  }
+
+  .mt-9 {
+    margin-top: 40px;
+  }
+
+  .pt-9 {
+    padding-top: 40px;
+  }
+
+  .mt-10 {
+    margin-top: 40px;
+  }
+
+  .pt-10 {
+    padding-top: 40px;
+  }
+
+  .mb-5 {
+    margin-bottom: 40px;
+  }
+
+  .pb-5 {
+    padding-bottom: 40px;
+  }
+
+  .mb-6 {
+    margin-bottom: 40px;
+  }
+
+  .pb-6 {
+    padding-bottom: 40px;
+  }
+
+  .mb-7 {
+    margin-bottom: 40px;
+  }
+
+  .pb-7 {
+    padding-bottom: 40px;
+  }
+
+  .mb-8 {
+    margin-bottom: 40px;
+  }
+
+  .pb-8 {
+    padding-bottom: 40px;
+  }
+
+  .mb-9 {
+    margin-bottom: 40px;
+  }
+
+  .pb-9 {
+    padding-bottom: 40px;
+  }
+
+  .mb-10 {
+    margin-bottom: 40px;
+  }
+
+  .pb-10 {
+    padding-bottom: 40px;
+  }
+
+  .ml-5 {
+    margin-left: 40px;
+  }
+
+  .pl-5 {
+    padding-left: 40px;
+  }
+
+  .ml-6 {
+    margin-left: 40px;
+  }
+
+  .pl-6 {
+    padding-left: 40px;
+  }
+
+  .ml-7 {
+    margin-left: 40px;
+  }
+
+  .pl-7 {
+    padding-left: 40px;
+  }
+
+  .ml-8 {
+    margin-left: 40px;
+  }
+
+  .pl-8 {
+    padding-left: 40px;
+  }
+
+  .ml-9 {
+    margin-left: 40px;
+  }
+
+  .pl-9 {
+    padding-left: 40px;
+  }
+
+  .ml-10 {
+    margin-left: 40px;
+  }
+
+  .pl-10 {
+    padding-left: 40px;
+  }
+
+  .mr-5 {
+    margin-right: 40px;
+  }
+
+  .pr-5 {
+    padding-right: 40px;
+  }
+
+  .mr-6 {
+    margin-right: 40px;
+  }
+
+  .pr-6 {
+    padding-right: 40px;
+  }
+
+  .mr-7 {
+    margin-right: 40px;
+  }
+
+  .pr-7 {
+    padding-right: 40px;
+  }
+
+  .mr-8 {
+    margin-right: 40px;
+  }
+
+  .pr-8 {
+    padding-right: 40px;
+  }
+
+  .mr-9 {
+    margin-right: 40px;
+  }
+
+  .pr-9 {
+    padding-right: 40px;
+  }
+
+  .mr-10 {
+    margin-right: 40px;
+  }
+
+  .pr-10 {
+    padding-right: 40px;
+  }
+
+  .banner-bg {
+    padding: 40px 0;
+  }
+
+  .section-ptb {
+    padding: 40px 0;
+  }
+
+  .section-pt {
+    padding-top: 40px;
+  }
+
+  .section-pb {
+    padding-bottom: 40px;
+  }
+
+  .reports-table {
+    margin-top: 40px;
+  }
+
+  .header-style-menu-center .topbar .topbar-left li.topbar_item {
+    display: none;
+  }
+
+  header .topbar-right.text-right {
+    text-align: center !important;
+  }
+
+  header.site-header .topbar .topbar-right .topbar-link > ul > li {
+    padding-left: 0;
+  }
+
+  header.site-header .topbar .topbar-right .topbar-link > ul > li .topbar-social_profiles li a {
+    padding: 10px 4px;
+  }
+
+  header.site-header .topbar_item.topbar_item_type-social_profiles {
+    margin-left: 10px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-deal-1 .ciyashop_banner-content {
+    padding: 70px 0;
+  }
+
+  .countdown-main {
+    margin: 0px;
+    padding: 40px 0;
+  }
+
+  .newsletter-section {
+    padding: 40px 0;
+  }
+
+  .ciyashop_clients {
+    padding: 30px 0;
+  }
+
+  .ciyashop_clients.ciyashop_clients-list-type-grid.ciyashop_clients-grid-column-4 {
+    padding-bottom: 0;
+  }
+
+  .section-title {
+    margin-bottom: 25px;
+  }
+
+  header.site-header .logo-wrapper img {
+    width: 150px;
+  }
+
+  .slider-01 .slide-content .slide-sale {
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  .slider-01 .slide-content .slide-since {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+  .slider-01 .slide-content .slide-subtitle {
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 10px;
+  }
+
+  .slider-01 .slide-content .slide-title h1 {
+    font-size: 60px;
+    line-height: 60px;
+    margin-bottom: 10px;
+    margin-top: 0;
+  }
+
+  .slider-01 .slide-content .slide-offer {
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  .slider-01 .slide-content .slide-button {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  .section-1 .section-title h2 {
+    font-size: 30px;
+    line-height: 27px;
+  }
+
+  .slider-01 .slide-content .slide-button-flat {
+    padding: 5px 18px;
+    margin-top: 10px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-3 .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    font-size: 55px !important;
+  }
+
+  .ciyashop_banner.ciyashop_banner-3 .ciyashop_banner-text-wrap .ciyashop_banner-text h3 {
+    font-size: 24px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-btn-wrap {
+    margin-top: 10px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-label-wrap .ciyashop_banner-label {
+    font-size: 12px;
+    padding: 2px 10px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text {
+    line-height: 30px;
+    font-size: 20px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap-1 .ciyashop_banner-text.tag-text {
+    padding: 4px 15px;
+    line-height: 24px;
+  }
+
+  .ciyashop_banner-style-deal-2.ciyashop_banner .ciyashop_banner-content.ciyashop_banner-content-vbottom {
+    bottom: 40px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-deal-1 .ciyashop_banner-content .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    font-size: 30px;
+  }
+
+  .section-2 .ciyashop_banner-content-wrapper .ciyashop_banner-label {
+    font-size: 18px !important;
+    line-height: 28px !important;
+  }
+
+  .ciyashop_banner .countdown {
+    margin: 0 !important;
+  }
+
+  .ciyashop_banner .countdown li span {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  .pgscore_banner .pgscore_banner-content .pgscore_banner-btn-wrap {
+    margin-top: 0;
+  }
+
+  .pgscore_banner .pgscore_banner-content .pgscore_banner-btn-wrap.pgscore_banner-btn-size-md .pgscore_banner-btn {
+    line-height: 24px;
+  }
+
+  .pgscore_banner .pgscore_banner-content .pgscore_banner-text-bg_color .pgscore_banner-text {
+    padding: 2px 12px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-1 {
+    padding-right: 0;
+  }
+
+  .single-img-wrapper.single-img-wrapper-2 {
+    padding-left: 0;
+    margin-bottom: 30px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-2 .single-img-content {
+    left: 20px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-3 {
+    padding-left: 0;
+  }
+
+  .countdown-main .section-title-wrapper h2 {
+    font-size: 58px;
+    line-height: 58px;
+  }
+
+  .slide-03-item .slide-content img {
+    display: none;
+  }
+
+  .slider-03 .slide-content .slide-title h1 {
+    font-size: 45px;
+    line-height: 60px;
+  }
+
+  .slider-03 .slide-content .slide-since {
+    margin-top: 0;
+  }
+
+  .slider-04 .slide-content .slide-inner img {
+    height: 40px;
+  }
+
+  .slider-04 .slide-content .slide-button {
+    font-size: 14px;
+  }
+
+  .slider-04 .slide-content p {
+    margin-bottom: 0;
+  }
+
+  .slider-04 .slide-content .slide-title h1 {
+    margin-bottom: 10px;
+  }
+
+  .maintenance .header img {
+    height: 40px;
+  }
+
+  .coming-soon .header img {
+    height: 40px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+  }
+
+  x
+  .maintenance .mntc-cs-item.mntc-cs-content {
+    padding: 0;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content h1 {
+    margin-bottom: 20px;
+  }
+
+  .slider-02 .slide-content .slide-title h1 {
+    font-size: 32px;
+    line-height: 34px;
+    margin: 10px 0;
+  }
+
+  .slider-02 .slide-content .slide-button-flat {
+    padding: 6px 24px;
+    font-size: 14px;
+  }
+
+  .slider-02 .slide-content .slide-left,
+  .slider-02 .slide-content .slide-right {
+    padding: 30px;
+  }
+
+  .collaboration-table {
+    min-width: 835px;
+  }
+
+  .coming-soon footer {
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .maintenance footer {
+    text-align: center;
+    position: relative;
+  }
+
+  .header-style-menu-center .header-nav-right-wrapper .ciya-tools {
+    margin-right: 30px;
+  }
+
+  .navbar.navbar-light .navbar-toggler {
+    top: -47px;
+    right: -4px;
+  }
+
+  nav.navbar.navbar-light.bg-faded {
+    display: block;
+    float: right;
+    padding: 0rem;
+    position: absolute;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 9px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    top: 67px;
+  }
+
+  /* .navbar-light .navbar-nav:last-child .nav-link {
+    border-bottom: 0px solid rgba(0, 0, 0, 0.05);
+  } */
+
+  .site-header.is-sticky .navbar.navbar-light .navbar-toggler {
+    top: -44px;
+  }
+
+  .site-header.is-sticky nav.navbar.navbar-light.bg-faded {
+    top: 56px;
+  }
+
+  .navbar-light .navbar-nav .nav-item > .nav-link {
+    background: 0 0;
+    border-radius: 0;
+    color: #323232;
+    padding: 10px 0;
+    margin: 0 20px;
+    position: relative;
+    line-height: 24px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    display: block;
+  }
+
+  .navbar-light .navbar-nav .nav-admin-link {
+    background: 0 0;
+    border-radius: 0;
+    color: #323232;
+    padding: 10px 0;
+    margin: 0 20px;
+    position: relative;
+    line-height: 24px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    display: inline-block;
+    text-transform: uppercase;
+  }
+
+  header.site-header .navbar-nav > .nav-item > .nav-link:after {
+    content: "+";
+    float: right;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+  }
+
+  header.site-header .navbar-nav > .show.nav-item > .nav-link:after {
+    content: "-";
+    float: right;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+  }
+
+  .navbar-nav .dropdown-menu {
+    position: static;
+    float: none;
+    border: medium none;
+    padding: 0px 30px;
+    transition: all ease 0s;
+  }
+
+  .navbar-nav .dropdown-menu.show {
+    transition: all ease 0s;
+  }
+
+  .navbar-nav .dropdown-menu .dropdown-item {
+    padding: 6px  0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  .navbar-nav .dropdown-menu .dropdown-item a {
+    color: #323232;
+  }
+
+  button:focus {
+    outline: none;
+  }
+
+  .admin-menu .navbar .navbar-nav .nav-item > .nav-link {
+    padding: 10px 0;
+  }
+
+  .content .products-header {
+    margin-top: 40px;
+  }
+
+  .contact-wrapper {
+    padding: 40px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    font-size: 20px;
+  }
+
+  footer.site-footer .footer-widgets-wrapper {
+    padding: 40px 0 40px;
+  }
+
+  footer.site-footer .footer-bottom-wrapper .footer-bottom .apps-store-img {
+    margin-left: 0px;
+    margin-right: 3px;
+  }
+
+  footer.site-footer .footer-content {
+    margin-bottom: 10px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content.ciyashop_banner-content-vbottom {
+    bottom: 30px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner-effect-none.banner-1 .ciyashop_banner-content.ciyashop_banner-content-vbottom {
+    bottom: 0;
+  }
+
+  .ciyashop_info_box_2-icon_position-left {
+    padding: 0;
+    margin-bottom: 10px;
+  }
+
+  .ciyashop_info_box_2 .ciyashop_info_box_2-title {
+    margin-bottom: 0;
+  }
+
+  .post {
+    margin-bottom: 36px;
+  }
+
+  .error-block h1 {
+    line-height: 200px;
+  }
+
+  .post-navigation .nav-links {
+    margin-bottom: 40px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-2 .text-wrapper {
+    margin-bottom: 20px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-1 .text-wrapper {
+    margin-top: 20px;
+  }
+
+  .reports-table th,
+  .reports-table td {
+    padding: 10px;
+  }
+
+  .table {
+    min-width: 800px;
+  }
+
+  .shop_table.shop_table_responsive.table {
+    min-width: 100%;
+  }
+
+  .single-img-wrapper.single-img-wrapper-1 .single-img-content {
+    right: 20px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-3 .single-img-content {
+    bottom: 50px;
+  }
+
+  .slider-03 .slide-content .slide-title h1 {
+    letter-spacing: 0;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap-1 .ciyashop_banner-text.tag-text {
+    letter-spacing: 0;
+  }
+
+  .slider-03 .slide-content .slide-since {
+    padding: 8px 20px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner-effect-none.ciya-banner-3 .ciyashop_banner-text-wrap {
+    margin-top: 0;
+  }
+
+  .ciyashop_banner-style-style-1.ciyashop_banner-effect-none.banner-1.ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text {
+    line-height: 40px;
+  }
+
+  .admin-menu {
+    margin-bottom: 20px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner-effect-none.ciya-banner-3 .ciyashop_banner-image {
+    height: 300px;
+    object-fit: cover;
+  }
+
+  .ciyashop_banner.ciyashop_banner-3.ciyashop_banner-style-style-1.ciyashop_banner-effect-none .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    line-height: 70px !important;
+    margin-bottom: 0px;
+  }
+
+  .ciyashop_banner-style-style-1.ciyashop_banner-effect-none.ciya-banner-3.ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text {
+    line-height: 30px;
+  }
+
+  .border-space {
+    margin-left: 90%;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    margin: 0 10px 0 0;
+  }
+
+  .ciyashop_clients.ciyashop_clients-grid-column-4 li {
+    width: 31.33%;
+  }
+
+  .coming-soon,
+  .maintenance {
+    padding: 40px 0;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content p {
+    margin-bottom: 20px;
+  }
+
+  .navbar-nav li{
+    list-style: none;
+  }
+  .navbar-nav .nav-item .nav-link {
+    background: 0 0;
+    border-radius: 0;
+    color: #323232;
+    padding: 10px 0;
+    margin: 0 20px;
+    position: relative;
+    line-height: 24px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    display: block;
+  }
+
+  .navbar-nav > li > .submenu{
+    opacity: 0;
+    visibility: hidden;
+    overflow: hidden;
+    padding: 0;
+    display: none;
+  }
+  .navbar-nav .nav-item > .showcollapsed > .nav-item:last-child .nav-link{
+    border-bottom: none;
+  }
+  .navbar-nav .nav-item > .showcollapsed{
+    -webkit-box-shadow: 0px 10px 25px -3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 10px 25px -3px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0px 10px 25px -3px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0px 10px 25px -3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 10px 25px -3px rgba(0, 0, 0, 0.1);
+  }
+  .navbar-nav .nav-item.active > .nav-link{
+    color: #D65E46;
+  }
+}
+
+@media (max-width:767px) {
+  .content .products-header {
+    margin-top:0;
+  }
+  .slider-01 .slide-content .slide-title h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .slider-01 .slide-content .slide-subtitle {
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 0;
+  }
+
+  .ciyashop_banner.ciyashop_banner-3 .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    font-size: 40px !important;
+  }
+
+  .countdown-main .section-title-wrapper h2 {
+    font-size: 48px;
+    line-height: 48px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text {
+    font-size: 18px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap-1 .ciyashop_banner-text.tag-text {
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    padding: 4px 12px;
+  }
+
+  .slider-04 .slide-content p {
+    display: none;
+  }
+
+  .slider-04 .slide-content .slide-subtitle {
+    display: none;
+  }
+
+  .slider-04 .slide-content .slide-inner-02 .slide-sale {
+    height: 80px;
+  }
+
+  .slider-04 .slide-content .slide-inner {
+    padding: 16px 50px;
+    box-shadow: 5px 5px 0px rgb(253, 225, 214);
+  }
+
+  .slider-04 .slide-content .slide-title h1 {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 0;
+  }
+
+  .slider-04 .slide-content .slide-inner-02 {
+    padding: 16px 50px;
+    box-shadow: 5px 5px 0px rgb(253, 225, 214);
+  }
+
+  .slider-04 .slide-content .slide-inner-02 .slide-sale {
+    display: none;
+  }
+
+  .slider-04 .slide-content .slide-inner-02 p,
+  .slider-04 .slide-content .slide-inner-02 .slide-subtitle {
+    display: block;
+    font-size: 14px;
+  }
+
+  .intro-title .text-right {
+    text-align: left !important;
+  }
+
+  .inner-intro h1 {
+    font-size: 20px;
+  }
+
+  .ciyashop_info_box_2-icon_position-left {
+    padding: 0;
+  }
+
+  .google-map {
+    height: 340px;
+  }
+
+  .error-block h1 {
+    font-size: 170px;
+    line-height: 170px;
+  }
+
+  .error-search-box p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 20px;
+  }
+
+  .coming-soon .header img {
+    margin: 20px 0;
+    height: 40px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content {
+    padding: 0px 0 20px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content i {
+    font-size: 80px;
+  }
+
+  .slider-02 .slide-content .slide-left,
+  .slider-02 .slide-content .slide-right {
+    padding: 10px;
+  }
+
+  .slider-02 .slide-content .slide-left,
+  .slider-02 .slide-content .slide-right {
+    border-width: 6px;
+  }
+
+  .cart-table thead td.actions .button {
+    float: left;
+    margin-top: 10px;
+  }
+
+  .cart-table thead td.actions .coupon .button {
+    margin-top: 0;
+  }
+
+  .products.list .product .product-inner {
+    display: block;
+  }
+
+  .products.list .product-thumbnail {
+    display: block;
+    width: 100%;
+  }
+
+  .products.list .product-info {
+    display: block;
+    width: 100%;
+  }
+
+  .products.list .product-info {
+    margin-left: 0;
+    padding-top: 6px;
+    margin-bottom: 30px;
+  }
+
+  .invoices-table th,
+  .invoices-table td {
+    padding: 10px;
+  }
+
+  .admin-profile {
+    display: block;
+  }
+
+  .admin-profile .admin-profile-info {
+    margin: 16px 0;
+  }
+
+  .profile-dropdown .dropdown-toggle {
+    margin-left: inherit;
+    margin-top: 0;
+  }
+
+  .admin-menu .navbar {
+    bottom: -18px;
+  }
+
+  .admin-menu {
+    padding: 30px 0;
+  }
+
+  .admin-menu .navbar-collapse {
+    border-top: 1px solid #e5e5e5;
+  }
+
+  .admin-menu .dropdown-menu[x-placement^=bottom] {
+    right: 0;
+    left: auto;
+  }
+
+  .profile-dropdown .dropdown-toggle::after {
+    margin-left: 10px;
+  }
+
+  .profile-dropdown .dropdown-menu {
+    width: 170px;
+  }
+
+  .slider-simple-arrow .slick-next,
+  .slider-simple-arrow .slick-prev {
+    display: none !important;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    margin-top: 5px;
+  }
+
+  .products-header .loop-header-tools .gridlist-toggle-wrap {
+    float: none;
+    margin-left: 0;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    display: block;
+  }
+
+  .footer-widget .payments.text-right {
+    margin-top: 10px;
+    text-align: left !important;
+  }
+
+  .admin-menu .navbar.navbar-light .navbar-toggler {
+    position: relative;
+    top: inherit;
+  }
+
+  .admin-menu .navbar {
+    justify-content: center;
+  }
+
+  .admin-menu .navbar .dropdown .dropdown-item {
+    padding: 0;
+  }
+
+  .admin-menu .navbar-expand-md .navbar-nav .dropdown-menu {
+    width: 100%;
+    position: relative;
+  }
+
+  .ordered-detail {
+    padding: 0 20px 20px 20px;
+  }
+
+  .modal-delete .modal-content {
+    padding: 20px 20px 14px 20px;
+  }
+
+  .single-product-edit .product-top-right-inner {
+    margin-top: 20px;
+  }
+
+  .single-product-edit .edit-icon:before {
+    left: -32px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 12px;
+  }
+
+  .ciyashop_clients .list-inline li {
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+
+  footer.site-footer .pgs-social-profiles {
+    margin-bottom: 30px;
+  }
+
+  footer.site-footer .social-profiles-wrapper-inner {
+    margin-bottom: 0;
+  }
+
+  footer.site-footer .footer-title,
+  footer.site-footer .footer-nav-menu .footer-title {
+    margin-bottom: 10px;
+  }
+
+  .products-header .right-banner,
+  .products-header .loop-header {
+    margin-bottom: 10px;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    margin: 0 0 10px 0;
+  }
+
+  .product-content-bottom {
+    margin-top: 30px;
+  }
+
+  .product-top-right-inner {
+    margin-top: 20px;
+  }
+
+  .single-product .product-summary-actions {
+    margin-bottom: 0;
+  }
+
+  .table {
+    min-width: 700px;
+  }
+
+  .success-screen .table {
+    min-width: 500px;
+  }
+
+  .shop_table.shop_table_responsive.table {
+    min-width: 100%;
+  }
+
+  .admin-menu {
+    margin-bottom: 0;
+  }
+
+  .slider-01 .slide-content .slide-sale span {
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner-effect-none.ciya-banner-3 .ciyashop_banner-image {
+    height: 230px;
+    object-fit: cover;
+  }
+
+  .ciyashop_banner-style-deal-2.ciyashop_banner .ciyashop_banner-content.ciyashop_banner-content-vbottom {
+    bottom: 10px;
+  }
+
+  .slider-03 .slide-content .slide-title h1 {
+    font-size: 35px;
+    line-height: 50px;
+    margin-top: 10px;
+  }
+
+  .single-post .entry-content {
+    margin-bottom: 20px;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content h1 {
+    margin-bottom: 0;
+    font-size: 32px;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content p {
+    font-size: 20px;
+    line-height: 34px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content h1 {
+    font-size: 32px;
+    margin-bottom: 0px;
+  }
+
+  .error-block p {
+    font-size: 26px;
+  }
+
+  .inner-intro .page-breadcrumb {
+    padding: 0;
+  }
+
+  .ciyashop_banner.ciyashop_banner-3.ciyashop_banner-style-style-1.ciyashop_banner-effect-none .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    line-height: 50px !important;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    width: 100%;
+  }
+
+  .coming-soon .commingsoon_countdown {
+    margin-top: 40px;
+  }
+
+  .ril__toolbarRightSide {
+    padding-top: 0;
+    padding-right: 10px !important;
+  }
+
+}
+
+@media (max-width:575px) {
+  h2 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  .mb-7.row {
+    margin-bottom: 20px;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  .section-title {
+    margin-bottom: 20px;
+  }
+
+  .slider-01 .slide-content .slide-sale {
+    display: none;
+  }
+
+  .slider-01 .slide-content .slide-title h1 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  .slider-01 .slide-content .slide-since {
+    margin-top: 10px;
+    font-size: 12px;
+    letter-spacing: 0;
+    padding: 2px 6px;
+  }
+
+  .slider-01 .slide-content .slide-button-flat {
+    padding: 2px 16px;
+    margin-top: 10px;
+    font-size: 12px;
+  }
+
+  .section-1 .section-title h2,
+  .section-title h2.title {
+    font-size: 24px;
+    line-height: 26px;
+  }
+
+  .newsletter-wrapper .newsletter-title {
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  .latest-post-wrapper .latest-post-item .latest-post-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .latest-post-wrapper .latest-post-item .latest-post-content {
+    height: auto;
+    display: block;
+    padding-left: 0;
+    margin-top: 20px;
+  }
+
+  .latest-post-wrapper.latest-post-style-1 .latest-post-item .latest-post-content {
+    padding-left: 0;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-deal-1 .ciyashop_banner-content {
+    padding: 40px 0;
+  }
+
+  header.site-header .ciya-tools-actions > li {
+    width: 30px;
+    height: 42px;
+  }
+
+  .mobile-butoon-menu {
+    padding: 0;
+  }
+
+  .single-img-wrapper.single-img-wrapper-1 .single-img-content {
+    left: inherit;
+    width: 140px;
+    right: 0;
+  }
+
+  .single-img-wrapper.single-img-wrapper-1 .single-img-content h3 {
+    font-size: 17px;
+    margin-bottom: 0;
+  }
+
+  .single-img-wrapper.single-img-wrapper-2 .single-img-content h3 {
+    font-size: 17px;
+    margin-bottom: 0;
+  }
+
+  .single-img-wrapper.single-img-wrapper-3 .single-img-content h3 {
+    font-size: 17px;
+    margin-bottom: 0;
+  }
+
+  .slider-03 .slide-content .slide-title h1 {
+    font-size: 20px;
+    line-height: 30px;
+    line-height: 20px;
+    letter-spacing: 0;
+  }
+
+  .slider-03 .slide-content .slide-since {
+    margin-top: 0px;
+    padding: 4px 10px;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 0;
+  }
+
+  .slider-03 .slide-content .slide-button {
+    margin-top: 0px;
+    font-size: 12px;
+  }
+
+  .slider-04 .slide-content .slide-inner {
+    padding: 10px;
+  }
+
+  .products-header .loop-header-tools .gridlist-toggle-wrap {
+    float: left;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  .ciyashop-pagination ul li {
+    margin: 4px;
+  }
+
+  .product-content-bottom .nav-tabs li {
+    margin: 0 4px 0 0;
+  }
+
+  .product-content-bottom .nav-tabs {
+    padding: 0;
+  }
+
+  .product-content-bottom .nav-tabs li a {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+
+  .inner-intro.header_intro h1 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .single-post .entry-footer .share {
+    padding-left: 0;
+  }
+
+  .single-post .entry-footer .share .share-button {
+    position: relative;
+    top: 0;
+    margin-bottom: 10px;
+  }
+
+  .single-post .entry-social {
+    float: left !important;
+  }
+
+  .single-post .entry-footer .share ul li {
+    float: left;
+  }
+
+  .comments-area .comment-respond .section-field,
+  .comments-area .respond-form .section-field {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .post-navigation .nav-links:before {
+    display: none
+  }
+
+  .post-navigation .nav-links .nav-next,
+  .post-navigation .nav-links .nav-previous {
+    width: 100%;
+  }
+
+  footer.site-footer .logo-wrapper img {
+    max-width: 150px;
+  }
+
+  .contact-wrapper {
+    padding: 40px 15px;
+  }
+
+  .ciyashop_info_box_2-icon-style-border.ciyashop_info_box_2-icon-size-lg .ciyashop_info_box_2-icon-inner,
+  .ciyashop_info_box_2-icon-style-flat.ciyashop_info_box_2-icon-size-lg .ciyashop_info_box_2-icon-inner {
+    width: 65px;
+    height: 65px;
+  }
+
+  .ciyashop_info_box_2-icon_position-left .ciyashop_info_box_2-inner .ciyashop_info_box_2-icon {
+    margin-right: 0;
+  }
+
+  .error-block h1 {
+    font-size: 120px;
+    line-height: 90px;
+    margin-bottom: 10px;
+  }
+
+  .error-block p {
+    font-size: 20px;
+  }
+
+  .error-block {
+    margin-bottom: 20px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content h1 {
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content i {
+    margin-bottom: 0;
+  }
+
+  .coming-soon .commingsoon_countdown li {
+    padding: 5px 0;
+    min-width: 54px;
+  }
+
+  .coming-soon .commingsoon_countdown li span {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content p {
+    padding: 0 8px;
+    font-size: 13px;
+  }
+
+  .coming-soon .commingsoon_countdown {
+    margin-bottom: 0;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content h1 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 10px;
+  }
+
+  .maintenance .mntc-cs-item.mntc-cs-content i {
+    margin-bottom: 10px;
+  }
+
+  .slider-02 .slide-content .slide-title h1 {
+    font-size: 20px;
+    line-height: 24px;
+    margin: 5px 0;
+  }
+
+  .slider-02 .slide-content .slide-button-flat {
+    padding: 1px 19px;
+    font-size: 10px;
+    margin-top: 5px;
+  }
+
+  .wishlist-table thead td.product-thumbnail a img {
+    width: 100px;
+  }
+
+  .cart-table thead td.actions .coupon .input-text {
+    width: 200px;
+  }
+
+  header.site-header .ciya-tools-actions li .cart-contents .widget-shopping-cart {
+    width: 300px;
+    right: -95px;
+  }
+
+  header.site-header .ciya-tools-actions li .cart-contents .widget-shopping-cart .ciyashop-mini-cart__buttons .button {
+    padding: 5px 17px;
+  }
+
+  header.site-header .topbar_item.topbar_item_type-social_profiles {
+    display: none;
+  }
+
+  .success-screen .thank-you {
+    padding: 20px;
+  }
+
+  .ordered-detail {
+    padding: 0 20px 20px 20px;
+  }
+
+  .success-screen .button {
+    display: block;
+    margin-bottom: 2px;
+    text-align: center
+  }
+
+  .modal-delete .modal-content {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .woocommerce-Address .woocommerce-Address-title {
+    display: block;
+  }
+
+  .woocommerce-Address .woocommerce-Address-title h5 {
+    margin-bottom: 6px !important;
+  }
+
+  .admin-menu .logo {
+    height: 30px;
+  }
+
+  .profile-dropdown .dropdown-toggle .profile-img {
+    margin-right: 0;
+  }
+
+  .testimonial.testimonial-style-1 .slick-next {
+    right: 26%;
+  }
+
+  .testimonial p {
+    line-height: 26px;
+  }
+
+  .testimonial.testimonial-style-1 .slick-prev {
+    left: 26%;
+  }
+
+  .newsletter-section .newsletter-wrapper .newsletter-title {
+    font-size: 22px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1 .newsletter p {
+    padding: 0;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner-effect-none.ciya-banner-3 .ciyashop_banner-image {
+    height: 240px;
+    object-fit: cover;
+  }
+
+  .ciyashop_banner-style-style-1.ciyashop_banner-effect-none.ciya-banner-3.ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text {
+    line-height: 30px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-deal-2.ciyashop_banner-effect-none {
+    padding-bottom: 80px;
+    margin-bottom: 6px;
+  }
+
+  .slider-spacing-10 .item > div {
+    padding: 0;
+    margin: 0;
+  }
+
+  .ciyashop_banner .ciyashop_banner-badge.ciyashop_banner-badge_style-style-1.ciyashop_banner-badge_type-flat.ciyashop_banner-badge_align-vtop.ciyashop_banner-badge_align-hleft {
+    display: none;
+  }
+
+  .ciyashop_banner .ciyashop_banner-badge {
+    margin: 10px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-1 .input-area input[type=text] {
+    padding-right: 15px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-1 .button-area {
+    position: relative;
+  }
+
+  .newsletter-wrapper .input-area {
+    margin-bottom: 6px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1 {
+    text-align: left;
+  }
+
+  .newsletter-wrapper.newsletter-style-1 .section-field.p-4 {
+    padding: 10px !important;
+  }
+
+  .ciyashop_clients.ciyashop_clients-list-type-grid.ciyashop_clients-grid-column-4 {
+    padding-top: 20px;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    margin-bottom: 6px;
+  }
+
+  .cart-table.table {
+    margin-bottom: 0;
+  }
+
+  .cart-collaterals {
+    margin-top: 40px;
+  }
+
+  .cart_totals .shop_table .order-total td {
+    font-size: 16px;
+  }
+
+  .modal .modal-header .close {
+    right: -4px;
+    top: -4px;
+  }
+
+  .ordered-detail .table .ordered-item .ordered-image {
+    display: block;
+  }
+
+  .slider-spacing-10 .slick-list {
+    margin: 0px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1 {
+    text-align: center;
+  }
+
+  .ciyashop_clients.ciyashop_clients-list-type-slider .slick-initialized .slick-slide > div {
+    padding: 10px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-badge_align-hleft {
+    left: 50px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .newsletter_form {
+    padding: 5px 0px 0px 0px;
+  }
+
+  .comments-area .comment-respond .comment-form-cookies-consent input[type=checkbox] {
+    margin-top: 6px;
+  }
+
+  .input-range__label-container {
+    left: -70% !important;
+  }
+
+  .cart_totals .shipping-calculator .popup-content {
+    width: 96% !important;
+  }
+
+  .cart_totals .shipping-calculator .popup-content .shop_table td {
+    padding: 20px 0px 20px 10px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .button-area,
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-6 .button-area {
+    position: relative;
+    display: inline-block;
+    transform: inherit;
+    left: 0;
+    color: #fff;
+    background: #D65E46;
+    margin-top: 20px;
+    border-radius: 3px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .button-area .btn,
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-6 .button-area .btn {
+    padding: 10px 20px 10px 40px;
+    color: #fff;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .button-area:before,
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-6 .button-area:before {
+    color: #fff;
+    left: 11px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .button-area:hover:before,
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .button-area:focus:before {
+    color: #fff;
+  }
+
+  .newsletter-style-1.newsletter-design-6.newsletter-wrapper .newsletter_form .error {
+    bottom: 46px;
+  }
+
+  .newsletter-style-1.newsletter-design-1 .btn {
+    background: #D65E46;
+    color: #fff;
+  }
+
+  .sidebar .shop-sidebar-widgets {
+    overflow: hidden;
+  }
+
+  .sidebar .shop-sidebar-widgets .price_slider_wrapper {
+    padding: 10px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    font-size: 16px;
+  }
+
+  .ciyashop-mini-cart__total.total img {
+    width: 40px;
+  }
+
+  .ReactTable .rt-noData {
+    margin-top: -18px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content {
+    padding-top: 6px;
+  }
+
+  .ciyashop_info_box_2 .ciyashop_info_box_2-title {
+    font-size: 19px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-1 .p-4 {
+    padding: 30px 20px !important;
+  }
+
+  .cart_totals .shop_table th {
+    padding: 10px 10px;
+  }
+
+  .cart_totals .shop_table td {
+    padding: 10px;
+    padding-left: 0;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-1 .input-area {
+    position: relative;
+    margin-bottom: 24px;
+  }
+
+  .single-product-edit .entry-summary .form-group label {
+    margin-bottom: 0;
+    margin-top: 5px;
+  }
+
+  .modal-add-user .modal-content {
+    padding-top: 20px;
+  }
+
+  footer.site-footer .footer-widgets-wrapper {
+    padding: 0px 0 40px;
+  }
+
+  .banner-bg {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .button-area .btn.btn-icon:hover {
+    color: #fff;
+  }
+
+  footer.site-footer .widget {
+    margin-top: 30px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-3 .single-img-content {
+    padding-left: 2%;
+  }
+
+  .countdown-main .section-title-wrapper h2 {
+    font-size: 38px;
+    line-height: 38px;
+  }
+
+  .countdown-main .section-title-wrapper p {
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+  }
+
+  .latest-post-wrapper.latest-post-style-2 .latest-post-item .latest-post-content {
+    padding: 0px 20px 20px;
+  }
+
+  .ciyashop_clients {
+    padding: 10px 0;
+  }
+
+  .product-content-bottom .nav-tabs li a {
+    border-bottom: 0;
+  }
+
+  .post .entry-header-section .entry-title {
+    font-size: 20px;
+  }
+
+  .inner-intro.header_intro .page-breadcrumb {
+    margin-top: 0;
+  }
+
+  .ciyashop_banner.ciyashop_banner-3 .ciyashop_banner-text-wrap .ciyashop_banner-text h3 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .sidebar .widget {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+
+  .slider-01 .slick-slide img,
+  .slider-02 .slick-slide img,
+  .slider-03 .slick-slide img {
+    min-height: 200px;
+    object-fit: cover;
+  }
+
+  .slider-01 .slide-content .slide-title h1 {
+    font-size: 25px;
+    margin-bottom: 0;
+  }
+
+  .slider-01 .slide-content .slide-subtitle {
+    font-size: 16px;
+  }
+
+  .slider-02 .slide-content .slide-button-flat {
+    padding: 4px 19px 7px 19px;
+    line-height: 16px;
+  }
+
+  .slider-04 .slick-slide .slide-inner .slide-image img {
+    min-height: 260px;
+    object-fit: cover;
+  }
+
+  .woocommerce-Address,
+  .woocommerce-Address .woocommerce-Address-info {
+    padding: 15px;
+  }
+
+  .ciyashop_button_wrapper .ciyashop_button_size_medium a {
+    padding: 6px 20px;
+  }
+
+  .ciyashop_banner .ciyashop_banner-content-inner-wrapper {
+    font-size: 40px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-style-style-1.ciyashop_banner-effect-border .ciyashop_banner-content {
+    padding-top: 20px;
+  }
+
+  .ciyashop_banner.ciyashop_banner-3.ciyashop_banner-style-style-1.ciyashop_banner-effect-none .ciyashop_banner-content-wrapper .ciyashop_banner-content-inner-wrapper .ciyashop_banner-text-wrap .ciyashop_banner-text h2 {
+    line-height: 70px !important;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .button-area .input-group-btn button {
+    color: #fff;
+    padding: 10px 20px 10px 34px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-4 .input-area input[type=email] {
+    padding-right: 15px;
+  }
+
+  .newsletter-wrapper.newsletter-style-1.newsletter-design-1 .button-area button {
+    color: #fff;
+  }
+
+  .single-post .entry-footer .share ul li a {
+    padding: 5px 10px;
+  }
+
+  .post {
+    margin-bottom: 30px;
+  }
+
+  .post-navigation .nav-links {
+    margin-bottom: 20px;
+  }
+
+  .related-posts {
+    margin-bottom: 10px;
+  }
+
+  .single-img-wrapper.single-img-wrapper-3 .single-img-content {
+    bottom: 40px;
+  }
+
+  footer.site-footer .pgs-social-profiles {
+    margin-bottom: 0;
+  }
+
+  .products-header .loop-header-tools .ordering {
+    width: 100%;
+  }
+
+  .sidebar .shop-sidebar-widgets .widget_pgs_social_profiles {
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .sidebar .shop-sidebar-widgets .widget.widget_price_filter {
+    padding-bottom: 10px;
+  }
+
+  .single-product .product_meta {
+    margin-bottom: 15px;
+  }
+
+  .ReactTable .-pagination .-center {
+    display: inline-block;
+    margin: 6px 0;
+    flex: inherit;
+  }
+
+  .woocommerce-Address .woocommerce-Address-info {
+    margin-top: 10px !important;
+  }
+
+  .admin-profile {
+    padding: 20px;
+  }
+
+  .coming-soon .mntc-cs-item.mntc-cs-content > p {
+    margin-bottom: 20px;
+  }
+
+.ciyashop_info_box_2-icon-style-border.ciyashop_info_box_2-icon-size-lg .ciyashop_info_box_2-icon-inner {
+  font-size: 28px;
+}
+
+}

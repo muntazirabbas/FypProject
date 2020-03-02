@@ -1,0 +1,58 @@
+[
+    {
+        "TransactionID": "122591",
+        "Date":"Jan 24, 2019",
+        "Account" : "HSBC Bank",
+        "Type" : "Saving",
+        "Amount" : "$1,235.00",
+        "Debit" : "$2,235.00",
+        "Balance" : "$10.00"
+    },
+    {
+        "TransactionID": "122592",
+        "Date":"Jan 26, 2019",
+        "Account" : "Bank of America",
+        "Type" : "Income",
+        "Amount" : "$2,145.00",
+        "Debit" : "$1,571.00",
+        "Balance" : "$20.00"
+    }
+    ,
+    {
+        "TransactionID": "122593",
+        "Date":"Jan 28, 2019",
+        "Account" : "Wells Fargo",
+        "Type" : "Expense",
+        "Amount" : "$8,645.00",
+        "Debit" : "$1,457.00",
+        "Balance" : "$30.00"
+    },
+    {
+        "TransactionID": "122594",
+        "Date":"Feb 02, 2019",
+        "Account" : "Bank of America",
+        "Type" : "Saving",
+        "Amount" : "$2,965.00",
+        "Debit" : "$2,573.00",
+        "Balance" : "$40.00"
+    },
+    {
+        "TransactionID": "122595",
+        "Date":"Feb 04, 2019",
+        "Account" : "Citigroup",
+        "Type" : "Saving",
+        "Amount" : "$2,735.00",
+        "Debit" : "$4,575.00",
+        "Balance" : "$50.00"
+    }
+    ,
+    {
+        "TransactionID": "122596",
+        "Date":"Feb 06, 2019",
+        "Account" : "U.S. Bancorp",
+        "Type" : "Income",
+        "Amount" : "$2,654.00",
+        "Debit" : "$1,546.00",
+        "Balance" : "$60.00"
+    }
+]
