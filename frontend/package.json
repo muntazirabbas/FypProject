@@ -24,7 +24,7 @@
     "npm": "^6.13.7",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-image-lightbox": "^5.1.0",
     "react-images-upload": "^1.2.7",
